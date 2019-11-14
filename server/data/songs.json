@@ -26,5 +26,12 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
+  },
+  {
+    "id": 5,
+    "title": "Trololo",
+    "artist": "Eduard Khil",
+    "releaseDate": "1976",
+    "lyricsFile": "trololo.txt"
   }
 ]
