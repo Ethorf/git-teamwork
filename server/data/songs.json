@@ -29,6 +29,13 @@
   },
   {
     "id": 5,
+    "title": "Faith",
+    "artist": "Bon Iver",
+    "releaseDate": "2019",
+    "lyricsFile":"faith.txt"
+  },
+  {
+    "id": 6,
     "title": "Trololo",
     "artist": "Eduard Khil",
     "releaseDate": "1976",
